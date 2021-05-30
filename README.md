@@ -13,8 +13,8 @@ To measure the distance between the simulated car (your Arduino system) and diff
 # Design:
 
 # Schematics
-![GitHub Logo](/images/logo.png)
-Format: ![Hardware-Design](url)
+[Hardware-Design](https://github.com/zuhadmahmood/Parking-Assistance-System/blob/4d1b3b45c1abd84099336fd3032561cdc3aa21fa/Images/Scmentics%20Final.jpg)
+
 # Components:
 Label	Part Type	Properties:
 J1	Piezo Speaker	
