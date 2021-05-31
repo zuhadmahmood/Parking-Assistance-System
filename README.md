@@ -13,7 +13,7 @@ To measure the distance between the simulated car (your Arduino system) and diff
 # Design:
 
 # Schematics
-[Hardware-Design](https://github.com/zuhadmahmood/Parking-Assistance-System/blob/da5f073473af78a86cd6a07993e165baaf8ada09/Images/Scmentics.jpg)
+![Hardware-Design](https://github.com/zuhadmahmood/Parking-Assistance-System/blob/a9ecaa54b2dcd59a5a30f52fa36003a6b9d7365b/Images/Scmentics.png)
 
 # Components:
 Label	Part Type	Properties:
