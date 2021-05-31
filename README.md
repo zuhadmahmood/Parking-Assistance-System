@@ -17,12 +17,10 @@ To measure the distance between the simulated car (your Arduino system) and diff
 
 # Components:
 Label	Part Type	Properties:
-J1	Piezo Speaker	
-LED1	Green (570nm) LED	color Green (570nm); leg yes; package 5 mm [THT]
-LED3	Red (633nm) LED	color Red (633nm); leg yes; package 5 mm [THT]
-Arduino Uno (Rev3) - ICSP	type Arduino UNO (Rev3) - ICSP
-R1	220Ω Resistor	package THT; bands 4; pin spacing 400 mil; tolerance ±5%; resistance 220Ω
-R2	220Ω Resistor	package THT; bands 4; pin spacing 400 mil; tolerance ±5%; resistance 220Ω
-R3	220Ω Resistor	package 0603 [SMD]; tolerance ±5%; resistance 220Ω
-S1	Pushbutton	package [THT]
-VCC1	Battery	voltage 3V
+1. J1	Piezo Speaker	
+1. LED	Green (570nm) LED	color Green (570nm); leg yes; package 5 mm
+1. LED	Red (633nm) LED	color Red (633nm); leg yes; package 5 mm
+1. Arduino Uno (Rev3) - ICSP	type Arduino UNO (Rev3) - ICSP
+1. 	220Ω Resistor	(3x)
+1. S1	Pushbutton	
+1. VCC1	Battery	voltage 3V
