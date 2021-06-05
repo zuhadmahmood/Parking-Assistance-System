@@ -26,8 +26,8 @@ Label	Part Type	Properties:
 1. (2x) S1	Pushbutton / Switch	
 1. (10x) AA Battery 3V 
 1. (2x) 12BH348/CS-GR AA Battery Holder
-1. (2x) MT3608 DC-DC Boost Converter 
-1. (1x) Arduino Pro Mini 328 - 3.3V/8MHz with Pin header 
+1. (2x) MT3608 DC-DC Boost Converter with solded Pin header
+1. (1x) Arduino Pro Mini 328 - 3.3V/8MHz with solded Pin header 
 1. (1x) OPEN-SMART CP2102 Serielles USB-zu-TTL-Adaptermodul
 1. (40x) Jumper Wire 40 x 20 cm Female Female, Male Male Cable Jumper 28 AWG Wire
 1. (1x) Breadboard
