@@ -30,3 +30,4 @@ Label	Part Type	Properties:
 1. Arduino Pro Mini 328 - 3.3V/8MHz with Pin header 
 1. OPEN-SMART CP2102 Serielles USB-zu-TTL-Adaptermodul
 1. Jumper Wire 40 x 20 cm Female Female, Male Male Cable Jumper 28 AWG Wire
+1. Breadboard
