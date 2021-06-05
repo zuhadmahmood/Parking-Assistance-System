@@ -32,3 +32,7 @@ Label	Part Type	Properties:
 1. (40x) Jumper Wire 40 x 20 cm Female Female, Male Male Cable Jumper 28 AWG Wire
 1. (1x) Breadboard
 1. (1x) Arduino to USB connector cable
+
+# Group Members:
+1. Zuhad Mahmood
+2. Ramis Ali Khan Babar
