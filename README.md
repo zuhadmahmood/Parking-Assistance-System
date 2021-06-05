@@ -33,6 +33,9 @@ Label	Part Type	Properties:
 1. (1x) Breadboard
 1. (1x) Arduino to USB connector cable
 
+# Tools:
+1. Multimeter 
+
 # Group Members:
 1. Zuhad Mahmood
 2. Ramis Ali Khan Babar
