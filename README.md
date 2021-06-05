@@ -11,7 +11,7 @@ The scope of the project is to design, Implement and test parking assistance sys
 To measure the distance between the simulated car (your Arduino system) and different objects, connect an ultrasonic sensor to your Arduino. Use a beeper to signal the distance to objects by differing tone frequencies. The resulting device must be powered by batteries (2xAA), so we have to integrate a power-saving strategy.
 
 # Design:
-Initial Design is created using Fritzing. The ultrasonic sensor,buzzer and a 3.5 battery is connected to arduino which is programmed to detect the objects at different levels and notify using the buzzer.
+Initial Design is created using Fritzing. The ultrasonic sensor,buzzer and a 3.5 battery is connected to arduino which is programmed to detect the objects at different levels and notify using the buzzer. MT3608 DC-DC Boost Converter will be used with the low powered arduino to minimize the input power for running the project. 
 # Schematics
 ![Hardware-Design](https://github.com/zuhadmahmood/Parking-Assistance-System/blob/a9ecaa54b2dcd59a5a30f52fa36003a6b9d7365b/Images/Scmentics.png)
 
