@@ -19,17 +19,12 @@ Initial Design is created using Fritzing. The ultrasonic sensor,buzzer and a 3.5
 Label	Part Type	Properties:
 1. (2x) Ultrasonic sensor HC-SR04
 1. (2x) J1	Piezo Speaker	
-1. (2x) LED	Green (570nm) LED	color Green (570nm); leg yes; package 5 mm
-1. (2x) LED	Red (633nm) LED	color Red (633nm); leg yes; package 5 mm
 1. (1x) Arduino Uno (Rev3) - ICSP	type Arduino UNO (Rev3) - ICSP
-1. (5x) 220Ω Resistor	
-1. (2x) S1	Pushbutton / Switch	
+1. (5x) 220Ω Resistor		
 1. (10x) AA Battery 3V 
 1. (2x) 12BH348/CS-GR AA Battery Holder
 1. (2x) MT3608 DC-DC Boost Converter with solded Pin header
-1. (1x) Arduino Pro Mini 328 - 3.3V/8MHz with solded Pin header 
-1. (1x) OPEN-SMART CP2102 Serielles USB-zu-TTL-Adaptermodul
-1. (40x) Jumper Wire 40 x 20 cm Female Female, Male Male Cable Jumper 28 AWG Wire
+1. (20x) Jumper Wire 40 x 20 cm Female Female, Male Male Cable Jumper 28 AWG Wire
 1. (1x) Breadboard
 1. (1x) Arduino to USB connector cable
 
