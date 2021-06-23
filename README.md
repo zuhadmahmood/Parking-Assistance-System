@@ -17,19 +17,16 @@ Initial Design is created using Fritzing. The ultrasonic sensor,buzzer and a 3.5
 
 # Components:
 Label	Part Type	Properties:
-1. (2x) Ultrasonic sensor HC-SR04
-1. (2x) J1	Piezo Speaker	
+1. (1x) Ultrasonic sensor HC-SR04
+1. (1x) J1	Piezo Speaker	
 1. (1x) Arduino Uno (Rev3) - ICSP	type Arduino UNO (Rev3) - ICSP
-1. (5x) 220Ω Resistor		
-1. (10x) AA Battery 3V 
-1. (2x) 12BH348/CS-GR AA Battery Holder
+1. (1x) 220Ω Resistor		
+1. (4x) AA Battery 3V 
+1. (1x) 12BH348/CS-GR AA Battery Holder
 1. (2x) MT3608 DC-DC Boost Converter with solded Pin header
 1. (20x) Jumper Wire 40 x 20 cm Female Female, Male Male Cable Jumper 28 AWG Wire
 1. (1x) Breadboard
 1. (1x) Arduino to USB connector cable
-
-# Tools:
-1. Multimeter 
 
 # Group Members:
 1. Zuhad Mahmood
